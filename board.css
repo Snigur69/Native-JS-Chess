@@ -1,0 +1,29 @@
+.white {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: white;
+	
+}
+
+.black {
+	width: 100px;
+	height: 100px;
+	float : left;
+	background-color: black;
+}
+.row {
+	width: 800px;
+	height: 100px;
+	float: none;
+}
+.helpDiv{
+	width: 90px;
+	height: 90px;
+}
+
+img{
+	margin-left: auto;
+    margin-top: auto;
+}
+
